@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Kevin%20Syonin&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Informatics%20|%20Full-Stack%20Developer%20|%20IoT%20%26%20AI%20Enthusiast&descSize=16&descColor=90CAF9&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20,24&amp;height=200&amp;section=header&amp;text=Kevin%20Syonin&amp;fontSize=50&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Informatics%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20%26%20AI%20Enthusiast&amp;descSize=16&amp;descColor=90CAF9&amp;descAlignY=58" width="100%" />
 
 <div align="center">
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Chairperson+%40+PUMA+Informatics+%F0%9F%8E%93;From+Robotics+Competitions+to+AI+Solutions+%F0%9F%A4%96;Building+Smart+Systems+That+Matter+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=42A5F5&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=70&amp;lines=Chairperson+%40+PUMA+Informatics+%F0%9F%8E%93;From+Robotics+Competitions+to+AI+Solutions+%F0%9F%A4%96;Building+Smart+Systems+That+Matter+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -139,12 +139,12 @@ fun_fact: "I love learning anything new in tech — from robotics to AI to cloud
 <div align="center">
 
 ### 💻 Full-Stack Development
-<img src="https://skillicons.dev/icons?i=js,php,python,laravel,react,html,css,tailwind,mysql&theme=dark" alt="Full-Stack" />
+<img src="https://skillicons.dev/icons?i=js,php,python,laravel,react,html,css,tailwind,mysql&amp;theme=dark" alt="Full-Stack" />
 
 ---
 
 ### 📡 IoT & Embedded Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="IoT" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&amp;theme=dark" alt="IoT" />
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT_Protocol-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
@@ -153,14 +153,14 @@ fun_fact: "I love learning anything new in tech — from robotics to AI to cloud
 ---
 
 ### 🤖 AI & Computer Vision
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark" alt="AI" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&amp;theme=dark" alt="AI" />
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ---
 
 ### 🖥️ Infrastructure & Networking
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,nginx&theme=dark" alt="Infrastructure" />
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,nginx&amp;theme=dark" alt="Infrastructure" />
 
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -168,7 +168,7 @@ fun_fact: "I love learning anything new in tech — from robotics to AI to cloud
 ---
 
 ### 🎨 Creative & Design
-<img src="https://skillicons.dev/icons?i=ps,pr,ae,figma&theme=dark" alt="Creative" />
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,figma&amp;theme=dark" alt="Creative" />
 
 ![Adobe CC](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![Photography](https://img.shields.io/badge/Photography_&_Videography-4FC3F7?style=for-the-badge&logo=unsplash&logoColor=white)
@@ -176,7 +176,7 @@ fun_fact: "I love learning anything new in tech — from robotics to AI to cloud
 ---
 
 ### ⚙️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,flutter,dart,firebase&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,flutter,dart,firebase&amp;theme=dark" alt="Tools" />
 
 </div>
 
@@ -185,17 +185,17 @@ fun_fact: "I love learning anything new in tech — from robotics to AI to cloud
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=HuangMingZhi0206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&text_color=FFFFFF&ring_color=42A5F5" alt="GitHub Stats" />
-  <img height="200" align="center" src="https://streak-stats.demolab.com/?user=HuangMingZhi0206&theme=tokyonight&hide_border=true&background=0D1117&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5" alt="GitHub Streak" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=HuangMingZhi0206&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=42A5F5&amp;icon_color=42A5F5&amp;text_color=FFFFFF&amp;ring_color=42A5F5" alt="GitHub Stats" />
+  <img height="200" align="center" src="https://streak-stats.demolab.com/?user=HuangMingZhi0206&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=42A5F5&amp;fire=42A5F5&amp;currStreakLabel=42A5F5" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangMingZhi0206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF" alt="Top Languages" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangMingZhi0206&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=42A5F5&amp;text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuangMingZhi0206&theme=tokyo-night&hide_border=true&area=true&area_color=42A5F5&bg_color=0D1117&color=FFFFFF&line=42A5F5&point=90CAF9" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuangMingZhi0206&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=42A5F5&amp;bg_color=0D1117&amp;color=FFFFFF&amp;line=42A5F5&amp;point=90CAF9" width="98%" alt="Activity Graph" />
 </p>
 
 ---
@@ -283,4 +283,4 @@ Whether it's building intelligent applications, designing smart systems, or lead
   <img src="https://raw.githubusercontent.com/HuangMingZhi0206/HuangMingZhi0206/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20,24&amp;height=120&amp;section=footer" width="100%" />
