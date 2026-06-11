@@ -10,7 +10,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Syonin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-syonin/)
 [![Email](https://img.shields.io/badge/Email-kevinsyonin.266-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsyonin.266@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-christopher__kevin__syonin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christopher_kevin_syonin/)
+[![Instagram](https://img.shields.io/badge/Instagram-kevinsyonin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinsyonin/)
 [![YouTube](https://img.shields.io/badge/YouTube-kevinsyonin0206-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kevinsyonin0206)
 
 <br/>
@@ -271,7 +271,7 @@ Whether it's building intelligent applications, designing smart systems, or lead
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-syonin/)
 [![Email](https://img.shields.io/badge/Send_Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsyonin.266@gmail.com)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christopher_kevin_syonin/)
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinsyonin/)
 [![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kevinsyonin0206)
 
 </div>
